@@ -1,6 +1,6 @@
 package com.sjy.dayontest.controller;
 
-import com.sjy.dayontest.controller.reqeust.SaveExamScoreRequest;
+import com.sjy.dayontest.controller.request.SaveExamScoreRequest;
 import com.sjy.dayontest.controller.response.ExamFailStudentResponse;
 import com.sjy.dayontest.controller.response.ExamPassStudentResponse;
 import com.sjy.dayontest.service.StudentScoreService;

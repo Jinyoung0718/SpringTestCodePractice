@@ -1,4 +1,4 @@
-package com.sjy.dayontest.controller.reqeust;
+package com.sjy.dayontest.controller.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
