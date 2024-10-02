@@ -1,6 +1,5 @@
 package com.sjy.dayontest.service;
 
-import com.sjy.dayontest.MyCalculator;
 import com.sjy.dayontest.controller.response.ExamFailStudentResponse;
 import com.sjy.dayontest.controller.response.ExamPassStudentResponse;
 import com.sjy.dayontest.model.*;
