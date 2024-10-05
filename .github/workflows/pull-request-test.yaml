@@ -13,6 +13,7 @@ jobs:
       contents: read
 
       pull-requests: write
+
     steps:
       - name: Git Checkout
         uses: actions/checkout@v3.0.2
