@@ -3,6 +3,7 @@ package com.sjy.dayonetest.controller.request;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
+@Getter @AllArgsConstructor
 public class SaveExamScoreRequest {
 
     private final String studentName;
