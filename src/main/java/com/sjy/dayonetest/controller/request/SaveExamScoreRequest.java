@@ -9,6 +9,11 @@ import lombok.Getter;
 public class SaveExamScoreRequest {
 
     private final String studentName;
+
+
+
+
+
     private final Integer korScore;
     private final Integer englishScore;
     private final Integer mathScore;
