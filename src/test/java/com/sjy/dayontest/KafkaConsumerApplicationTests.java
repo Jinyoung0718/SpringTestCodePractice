@@ -9,6 +9,7 @@ import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.mock.mockito.MockBean;
 
+@Order(0)
 public class KafkaConsumerApplicationTests extends IntegrationTest {
 
     @Autowired
