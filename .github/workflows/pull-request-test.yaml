@@ -25,6 +25,7 @@ jobs:
               - 'src/**'
 
       - name: JDK 설치
+        
         if: steps.changes.outputs.application == 'true'
         uses: actions/setup-java@v3
         with:
